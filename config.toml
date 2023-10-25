@@ -1,0 +1,6 @@
+baseURL = 'https://cpuonfire.com'
+languageCode = 'en-us'
+title = 'Phanis Blog'
+theme = 'console'
+[params]
+custom_js = ["/oneko.js"]
