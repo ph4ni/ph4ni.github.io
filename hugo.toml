@@ -1,4 +1,4 @@
-baseURL = 'https://cpuonfire.com'
+baseURL = 'https://cpuonfire.com/'
 languageCode = 'en-us'
 title = 'Phanis Blog'
 theme = 'console'
