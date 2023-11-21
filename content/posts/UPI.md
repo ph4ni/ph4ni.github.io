@@ -25,6 +25,6 @@ Digital Public Infrastructure: *"networked open technology standards built for p
 
 Digital public goods: *"open-source software, open standards, open data, open AI systems, and open content collections that adhere to privacy and other applicable best practices, do no harm, and are of high relevance for attainment of the UN SDGs."* - [DPG Alliance](https://digitalpublicgoods.net/standard/)
 
-UPI is not an app but a kind of network. It almost functions as a communication system sending messages between banks. Is the network open for anyone to participate in? No, you need to jump through a lot of hoops, get bunch of [licenses](https://pay.google.com/intl/en_in/about/external/npci/), NPCI needs to like you, and if everything goes well, have money to burn to fund those MDR losses. Can UPI be FOSS?  There is a really [interesting talk](https://www.youtube.com/watch?v=XALTOoPpaCA&t=519s) by [Nemo](https://github.com/captn3m0) (who doesn't famously have an Aadhar) on building a FOSS UPI app. [librefin](https://github.com/librefin-in) works on this.
+UPI is not an app but a kind of network. It almost functions as a communication system sending messages between banks. Is the network open for anyone to participate in? No, you need to jump through a lot of hoops, get bunch of [licenses](https://pay.google.com/intl/en_in/about/external/npci/), NPCI needs to like you, and if everything goes well, have money to burn to fund those MDR losses. Can UPI be FOSS?  There is a really [interesting talk](https://www.youtube.com/watch?v=XALTOoPpaCA&t=519s) by [Nemo](https://github.com/captn3m0) (who doesn't famously have an Aadhar) on building a FOSS UPI app. [librefin](https://github.com/librefin-in) works on this. 
 
-Theres NPCI International now.
+to be continued...
