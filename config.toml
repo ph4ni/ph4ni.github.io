@@ -1,7 +1,10 @@
 baseURL = 'https://cpuonfire.com/'
 languageCode = 'en-us'
-title = 'Phanis Blog'
+title = 'cpuonfire'
 theme = 'console'
+
+[permalinks]
+	posts = "/blog/:slug/"
 [params]
 custom_js = ["/oneko.js"]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
@@ -16,8 +19,8 @@ custom_js = ["/oneko.js"]
   url = "about/"
 
   [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
+  name = "blog/"
+  url = "blog/"
   
   [[params.navlinks]]
   name = "photos/"
