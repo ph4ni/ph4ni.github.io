@@ -28,3 +28,7 @@ Digital public goods: *"open-source software, open standards, open data, open AI
 UPI is not an app but a kind of network. It almost functions as a communication system sending messages between banks. Is the network open for anyone to participate in? No, you need to jump through a lot of hoops, get a bunch of [licenses](https://pay.google.com/intl/en_in/about/external/npci/), NPCI needs to like you, and if everything goes well, have money to burn to fund those MDR losses. Can UPI be FOSS?  There is a really [interesting talk](https://www.youtube.com/watch?v=XALTOoPpaCA&t=519s) by [Nemo](https://github.com/captn3m0) (who doesn't famously have an Aadhar) on building a FOSS UPI app. [librefin](https://github.com/librefin-in) works on this. 
 
 to be continued...
+
+---
+
+*I write [FOSS Weekly](https://fossweekly.beehiiv.com/), a weekly review of [FOSS news](https://fossweekly.beehiiv.com/subscribe), if you are interested in subscribing.*
